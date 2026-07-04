@@ -1,2 +1,2 @@
 # YOLO
-The purpose of repository is to get YOLO badge!
+The purpose of this repository is to obtain the YOLO badge!
